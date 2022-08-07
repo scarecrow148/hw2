@@ -118,7 +118,7 @@ section h2 {
   text-transform: uppercase;
 }
 
-.solutions button:hover {
+.solutions button {
   width: 220px;
   min-height: 50px;
 
@@ -137,7 +137,7 @@ section h2 {
   letter-spacing: 0.06em;
 }
 
-.solutions input:hover {
+.solutions button:hover {
   cursor: pointer;
 }
 
